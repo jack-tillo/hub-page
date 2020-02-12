@@ -1,0 +1,10 @@
+{
+  "name": "hubpage-template",
+  "version": "0.1.0",
+  "description": "Tillo Vue CLI template",
+  "main": "index.js",
+  "repository": "https://github.com/jack-tillo/hub-page.git",
+  "author": "Jack Chapman",
+  "license": "MIT",
+  "private": false
+}
